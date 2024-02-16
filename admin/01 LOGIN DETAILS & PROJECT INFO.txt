@@ -1,0 +1,10 @@
+**Database Name: ecommerceapp**
+
+
+**Admin Login Details**
+
+Email:    bshallama16@gmail.com
+Password: bishal@123
+
+**Project Folder should not be changed from "Ecommerce-app-h" to others
+without making changes in the code**
